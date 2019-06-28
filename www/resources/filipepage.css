@@ -1,0 +1,64 @@
+body {background-image: url("namek.jpg");
+    background-size: 1920px 1080px;
+background-attachment: fixed;
+text-align: center;}
+
+
+    p {
+        color:rgb(255, 251, 4);}
+    ul {
+        color:rgb(255, 251,4);
+        display: inline-block;
+        text-align: center;
+        list-style:inside;
+    position: relative;}
+
+    a {
+        color:rgb(211, 209, 240);
+        position: relative;
+       
+    }
+    #twitter{
+        display: inline-block;
+        text-align: center;
+    }
+    #facebook{
+        display: inline-block;
+        text-align: center;
+    }
+        
+    
+    .center {
+        display: inline-block;
+        margin-left: 50px;
+        margin-right: auto;
+        width:50%;}
+
+     #goku:hover{
+         color: blue;
+     }   
+     .bg-primary{
+         position: relative;
+         text-align: center;
+     }
+
+     li {
+         position: relative;
+         text-align: center
+
+
+     }
+
+    
+    h1 {
+display: block;
+        position: relative;
+        
+    
+        }
+
+    p.date {
+         text-align: right;}
+
+    p.main {
+            text-align:center;}
